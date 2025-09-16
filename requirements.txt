@@ -1,6 +1,7 @@
 appnope==0.1.4
 asttokens==3.0.0
 azure-ai-inference==1.0.0b9
+azure-ai-vision-imageanalysis==1.0.0
 azure-core==1.35.1
 certifi==2025.8.3
 charset-normalizer==3.4.3
